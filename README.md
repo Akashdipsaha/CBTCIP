@@ -1,10 +1,4 @@
-C++ Programs Collection
-
-This repository contains three C++ programs:
-
-    Digital Calculator: A simple calculator program that allows users to perform basic arithmetic operations.
-    Student Record Management System: A program to manage student records, including adding, displaying, searching, deleting, and modifying records.
-    Tic Tac Toe with Networking: A Tic Tac Toe game with networking capabilities, allowing players to play against each other over a network.
+This repository contains three C++ programs which was given as a task during the C++ Programming internship provide by CipherByte Technologies:
 
 Digital Calculator
 The digital calculator program offers basic arithmetic operations such as addition, subtraction, multiplication, and division. 
